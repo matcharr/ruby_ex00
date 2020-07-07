@@ -1,0 +1,1 @@
+tableau = (1...51).map { |index| "jean.dupont.#{sprintf '%02d', index}@email.fr" }

@@ -1,0 +1,1 @@
+(0...51).each { |index| puts "jean.dupont.#{sprintf '%02d', index}@email.fr" if index.even? }
